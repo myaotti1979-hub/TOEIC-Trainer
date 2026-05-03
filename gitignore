@@ -1,0 +1,19 @@
+# Environment / API keys
+.env
+*.env
+
+# Question data (distribute via Releases)
+*.json
+!package.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.bak
