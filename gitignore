@@ -4,7 +4,7 @@
 
 # Question data (distribute via Releases)
 *.json
-!package.json
+!manifest.json
 
 # OS files
 .DS_Store
